@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/include/algorithms/heapsort.h
+vector
+-
+cmath
+-
+
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/include/algorithms/introsort.h
+vector
+-
+cmath
+-
+heapsort.h
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/include/algorithms/heapsort.h
+
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/include/algorithms/mergesort.h
+vector
+-
+
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/include/algorithms/quicksort.h
+vector
+-
+cmath
+-
+
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/src/main.cpp
+iostream
+-
+vector
+-
+cstdlib
+-
+ctime
+-
+algorithm
+-
+chrono
+-
+../include/algorithms/mergesort.h
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/include/algorithms/mergesort.h
+../include/algorithms/quicksort.h
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/include/algorithms/quicksort.h
+../include/algorithms/heapsort.h
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/include/algorithms/heapsort.h
+../include/algorithms/introsort.h
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/include/algorithms/introsort.h
+

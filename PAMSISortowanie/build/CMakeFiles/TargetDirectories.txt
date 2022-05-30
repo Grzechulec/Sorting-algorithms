@@ -1,0 +1,4 @@
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/build/CMakeFiles/rebuild_cache.dir
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/build/CMakeFiles/edit_cache.dir
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/build/CMakeFiles/efficiency_tests.dir
+/home/grzegorz/Pulpit/repo/grzegorzsmolakpamsi/Algorytmy sortowania/PAMSISortowanie/build/CMakeFiles/test_sorting_algorithms.dir
